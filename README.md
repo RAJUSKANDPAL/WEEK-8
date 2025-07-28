@@ -1,9 +1,4 @@
 # WEEK-8    
-🔬 VPN Setup & R&D Guides 🔐
-
-This repository contains in-depth documentation for network configuration. Dive into our step-by-step guide for setting up a Point-to-Site (P2S) VPN 💻🔗🌐, perfect for individual remote connections. You'll also find a comprehensive R&D document on establishing a Site-to-Site (S2S) VPN 🏢🔗🏢 specifically within a Hyper-V virtualized environment.
-
-Option 2 (More Descriptive)
 📚 R&D on VPN Configurations 🛡️
 Welcome! This repository is dedicated to providing detailed research and practical guides for implementing secure VPN solutions.
 
