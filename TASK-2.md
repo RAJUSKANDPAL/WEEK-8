@@ -75,7 +75,5 @@ This document provides a step-by-step guide to configuring a Site-to-Site (S2S) 
 
 By following these steps, you can interconnect two sites (on-premises using Hyper-V and a cloud or remote branch) using a secure, standards-based VPN. This setup is commonly used for hybrid cloud scenarios, disaster recovery, and securely connecting multiple office locations.
 
----
-
 
 
